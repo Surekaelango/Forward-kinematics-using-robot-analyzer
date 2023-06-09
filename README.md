@@ -32,47 +32,50 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  
 
 ### PROCEDURE:
+STEP 1:
+Open the roboanalyzer software.
+
+STEP 2:
+Select the robot and its degrees of freedom.
+
+STEP 3:
+Change the values with the link lenght wherever necessary.
+
+STEP 4:
+Simulate the model for forward kinematics.
+
+STEP 5:
+Plot the graph between the link and the joints.
+
+STEP 6:
+Update the DH parameters of the link configuration and end effector configuration.
 
 
 
 
 
-### SIMULATION 
- 
- 
- 
- 
- 
- 
- 
- ### PLOT 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+### DH PARAMETERS
+## 6 DOF
+![image](https://github.com/Surekaelango/Forward-kinematics-using-robot-analyzer/assets/127727904/5d709332-d5d5-44fc-b925-a066e278546e)
+## 4 DOF
+![image](https://github.com/Surekaelango/Forward-kinematics-using-robot-analyzer/assets/127727904/0270b55d-f083-4a85-a938-f54370b29c71)
 
- 
- 
+## SIMULATION:
+## 6 DOF:
+![image](https://github.com/Surekaelango/Forward-kinematics-using-robot-analyzer/assets/127727904/701af5f3-f2e1-4a9b-80a0-30bbb4a51652)
+## 4 DOF:
+![image](https://github.com/Surekaelango/Forward-kinematics-using-robot-analyzer/assets/127727904/0b6f761f-2102-4d60-9ef1-0e051862e68b)
 
+## PLOT :
+## 6 DOF:
+![image](https://github.com/Surekaelango/Forward-kinematics-using-robot-analyzer/assets/127727904/9a61793a-f19e-490f-98dc-f78e55d29654)
+## 4 DOF:
+![image](https://github.com/Surekaelango/Forward-kinematics-using-robot-analyzer/assets/127727904/836e7bd6-8650-4a6a-89a0-5da597ca0fc5)
+## EE CONFIGURATION:
+## 6 DOF:
+![image](https://github.com/Surekaelango/Forward-kinematics-using-robot-analyzer/assets/127727904/5630e1c7-d510-402c-9822-b6ac3b9e44da)
+## 4 DOF:
+![image](https://github.com/Surekaelango/Forward-kinematics-using-robot-analyzer/assets/127727904/fdec2361-0ef2-4ac4-877f-fcbe807ae914)
 
-
-
-
-
-
-
-
-
-
-
-
-
-### RESULTS :  
+### RESULTS : 
+The forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer has been analyzed and the graph for link cordinates and joint angles has been ploted.
